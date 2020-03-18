@@ -1,2 +1,2 @@
 # wiCon-Appfi
- An app that holds wi-fi data from home router, imagen you wake up late to work, school and you forgot to pay cell phone bill you would need to wait after you got out. now what if download an app which could hold some wi-fi data from your homes router (is not stealing) this your homes router. 
+ An app that holds wi-fi data from home router, what if YOU could download an app which could hold some wi-fi data from your homes router (is not stealing) this your homes router. Not sure if "DATA" is the proper name for this, insted of useing public wifi where some jerk might be able to hack your device You could use "DATA" from your own router that is stored in a app what if that app is able to save 5Gb, 10Gb or up to 30Gb of "DATA". 
